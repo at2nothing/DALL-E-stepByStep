@@ -13,7 +13,7 @@ To deploy a DALL-E 3 model with Azure OpenAI service, make sure you have the fol
 
 4. **Access to DALL-E:** Ensure that you have access granted to DALL-E in the desired Azure subscription.
 
-5. **Application for Azure OpenAI Service:** Submit an application to access Azure OpenAI Service. You can apply for access by completing [this form](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu). If you need assistance, you can open an issue on [this repo](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu) to contact Microsoft.
+5. **Application for Azure OpenAI Service:** Submit an application to access Azure OpenAI Service. You can apply for access by completing [this form](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu). If you need assistance, you can open an issue on [this link](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu) to contact Microsoft.
 
 *Note: The application for Azure OpenAI Service is currently required. If you have any questions or need further assistance, feel free to reach out.*
 
