@@ -1,6 +1,6 @@
 # Microsoft Azure | Deploying Dall-E-3 Model
 
-# Deploying DALL-E 3 Model with Azure OpenAI Service
+## Deploying DALL-E 3 Model with Azure OpenAI Service
 
 To deploy a DALL-E 3 model with Azure OpenAI service, make sure you have the following prerequisites:
 
