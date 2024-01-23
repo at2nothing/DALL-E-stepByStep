@@ -1,5 +1,4 @@
-# [Microsoft Azure | Deploying Dall-E-3 Model](https://app.tango.us/app/workflow/77564e19-90af-465f-8199-1769f76ab172?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
+# Microsoft Azure | Deploying Dall-E-3 Model
 
 # Deploying DALL-E 3 Model with Azure OpenAI Service
 
@@ -24,21 +23,6 @@ To deploy a DALL-E 3 model with Azure OpenAI service, make sure you have the fol
 
 
 
-
-# [Microsoft Azure | Deploying Dall-E-3 Model](https://app.tango.us/app/workflow/77564e19-90af-465f-8199-1769f76ab172?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
-__Creation Date:__ January 23, 2024  
-__Created By:__ Anas Elhaag  
-[View most recent version on Tango.us](https://app.tango.us/app/workflow/77564e19-90af-465f-8199-1769f76ab172?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
-
-
-***
-
-
-
-
-## # [Cloud Computing Services | Microsoft Azure](https://azure.microsoft.com/en-us/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_298069)
 
 
 ### 1. Click on Sign in
