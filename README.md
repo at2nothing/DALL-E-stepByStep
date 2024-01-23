@@ -1,8 +1,22 @@
 # [Microsoft Azure | Deploying Dall-E-3 Model](https://app.tango.us/app/workflow/77564e19-90af-465f-8199-1769f76ab172?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
-__Creation Date:__ January 23, 2024  
-__Created By:__ Anas Elhaag  
-[View most recent version on Tango.us](https://app.tango.us/app/workflow/77564e19-90af-465f-8199-1769f76ab172?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
+
+# Deploying DALL-E 3 Model with Azure OpenAI Service
+
+To deploy a DALL-E 3 model with Azure OpenAI service, make sure you have the following prerequisites:
+
+1. **DALL-E 3 and DALL-E 2:** Obtain access to DALL-E in your desired Azure subscription.
+
+2. **Azure Subscription:** If you don't have one, you can [create a free Azure subscription](https://azure.microsoft.com/en-gb/free/ai-services/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_298069).
+
+3. **Azure OpenAI Resource:** Create an Azure OpenAI resource in the SwedenCentral region. You can find more information on how to create a resource and deploy a model [here](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource?pivots=web-portal&WT.mc_id=%3Fwt.mc_id%3Dstudentamb_298069).
+
+4. **Access to DALL-E:** Ensure that you have access granted to DALL-E in the desired Azure subscription.
+
+5. **Application for Azure OpenAI Service:** Submit an application to access Azure OpenAI Service. You can apply for access by completing [this form](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu). If you need assistance, you can open an issue on [this repo](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu) to contact Microsoft.
+
+*Note: The application for Azure OpenAI Service is currently required. If you have any questions or need further assistance, feel free to reach out.*
+
 
 
 
@@ -18,7 +32,7 @@ __Created By:__ Anas Elhaag
 ![Step 1 screenshot](https://images.tango.us/workflows/77564e19-90af-465f-8199-1769f76ab172/steps/ceb6930d-24ae-48d9-8abc-6bd6545c39ec/09e994a6-02c1-4267-8e1c-ae7a57161641.png?crop=focalpoint&fit=crop&fp-x=0.9666&fp-y=0.0514&fp-z=2.5606&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=1009&mark-y=14&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0xNzcmaD0yMTAmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D)
 
 
-## # [Microsoft Azure portal (PWA)](https://portal.azure.com/)
+## # [Microsoft Azure portal (PWA)]([https://portal.azure.com/](https://azure.microsoft.com/en-gb/free/ai-services/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_298069))
 
 
 ### 2. Type "azure openai"
